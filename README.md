@@ -3,6 +3,8 @@
 ## Update for November 1st, 2019:
 I'm still on track, if we use the loosest of definitions.  I had allocated 2 weeks to asset creation and we're coming up on that this Tuesday.
 
+Sadly, no code to show for now, but the original files are uploaded to this Git.
+
 ### Asset
 I finished modeling the tchotchkes that the player will interact with. I need to finish modeling the AI core (10% done), Cannon Frame (40%) (the control station for it is finished), the doors (90%), sleep pod (50%), and the Room itself (30%).  I had to dig into some file format stuff to make sure what I was doing would actually export, but thankfully my preferred modeling software exports most texture channels with their built in FBX Exporter.
 
