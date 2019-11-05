@@ -1,0 +1,51 @@
+Intro
+Judge:  The Accused will approach the dias.
+
+<Provide movement tutorial and wait for player to move forward.>
+
+If player does not approach the dias after ten seconds, "pick up" and move the player and play:
+Judge: Your reticence is noted.
+
+OTHERWISE
+
+Judge: This Tribunal has reached a decision regarding the evidence of the accused broadcasting advanced technological data over unsecured frequencies in a star system known to have signal interception capabilities.  Per the Admirality Code of Justice, Section Seven, Articles Nine Through Twenty-Two, we find the Accused guilty of all charges.  The penalty for these transgressions is--
+Inquisitor:  A word, Commodore.
+Judge:  You may approach.
+
+<Footsteps and Robes>
+
+Inquisitor: <Whispering>  The Inquisition requests that the usual punishment be waved and that the accused instead be punished with cumpulsory service with the Civil Defense Corps.
+Judge: <Whispering>  These charges are severe and have not been seen in decades.  The standard punishment of permanent exile to a savage world will remind others of this severity.
+Inquisitor: <Whispering>  True, but the Inquisition believes this case has extenuating circumstances based on previous aptitude tests administered to the Accused.
+Judge: <Whispering>  With all due respect--
+Inquisitor: <Whispering>  We wish the Accused to stay with the Fleet.  We will not bend on this.
+
+Judge:  On the advice of the Inqisitorial Representative, the penalty for these transgressions will be compulsory service in the Civil Defense Corps of the Flor do Mar of which the Accused is a citizen.  The Accused will surrender themselves for stasis and transit back to the Flor do Mar.
+<Fade to Black>
+
+Day 1
+
+
+Day 244
+
+
+Day 485
+
+
+Day 500
+
+
+Turret Tutorial:
+(Aiming)
+(Power Management)
+(Weapon Systems)
+(Firing)
+(Success/Target Destroyed)
+(Failure/Target Intact or Weapon Not Fired)
+
+Item Interactions
+Helmet:
+Windmill:
+Medal:
+Shrike Model:
+Hunter Model:
