@@ -2,7 +2,7 @@
 
 ## Update for November 15th, 2019:
 ### Update on implementation details. 
-Rough Assets are done.  Player has movement control.  I'm basing a lot of the implementation on the FPS Microgame from the Asset Store.  The level is layed out with fixed assets.  Interactable objects are not implemented yet, nor is the interaction function, but I'm looking at repurposing the Microgame's look-down-sights function to act as our inspector/event trigger.
+Rough Assets are done.  Player has movement control.  I'm basing a lot of the implementation on the FPS Microgame from the Asset Store.  The level is laid out with fixed assets.  Interactable objects are not implemented yet, nor is the interaction function, but I'm looking at repurposing the Microgame's look-down-sights function to act as our inspector/event trigger.
 
 ### Please indicate who has worked on what part of the project.
 I mean... me.  It's just me.
