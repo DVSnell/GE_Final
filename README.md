@@ -1,5 +1,45 @@
 # MART 391 ST: Game Engines Final Project
 
+## Update for November 15th, 2019:
+### Update on implementation details. 
+Rough Assets are done.  Player has movement control.  I'm basing a lot of the implementation on the FPS Microgame from the Asset Store.  The level is layed out with fixed assets.  Interactable objects are not implemented yet, nor is the interaction function, but I'm looking at repurposing the Microgame's look-down-sights function to act as our inspector/event trigger.
+
+### Please indicate who has worked on what part of the project.
+I mean... me.  It's just me.
+
+### Specify how your timeline has changed.  Include your old timeline and your new timeline if changed.  Be as specific as you can be with your timeline.
+Here is my original timeline:
+- Asset Creation - 2 weeks (Continual Refinement)
+
+     Models and Audio
+     Unity Materials/Shader Scripting
+- Movement and Interaction Scripting  - 2 weeks
+- Turret Sub-Game - 2 weeks
+
+     Health mechanisms
+- Trailer/Marketing - 1 week
+
+     Design Finalization
+- Testing - Entire Duration with focus in last 2 weeks.
+
+I'm currently at the 2nd Week of Movement and Interaction Scripting.  I admit that I'm a little behind and only really getting started with the interaction side of things.  I also skipped working on the shader side of things for now since I decided it was more important to focus on function over style for now.  Style is something I can iterate over in the future.  I am also looking a bit ahead at the turret game and thinking of how to solve things I don't know yet like switching camera's, clamping rotation in the controller and toggling control options based on game states.
+
+### Include achievement components, social components, and immersion components of your game.
+The desire to move the game forward and explore more of the setting's background by listening to more audio events from interacting with the objects.  It is continued with the turret game by allowing the providing the player with actual win/lose states.  There aren't a lot of social apart from sharing information after-the-fact or competitiveness in the form of speed-running.  Immersion is a bit trickier since there is no character customization and I am intentionally avoiding gendered pronouns in reference to the player.  I hope to sell immersion through the world and, eventually, with improved visuals. 
+
+### Discuss the skills required in your game
+The skill bar is fairly low.  Understanding of basic controls and ability to follow prompts are all that is required.  Some sense of timing will be required in the final turret level where the player faces off with the boss ship.  At it's core, basic cognition is the only real requirement.
+
+### What the goals are of the game (how will the players know what the goals are)
+The goal is to reach the end.  There are only two (three if we count quitting early) possible times this can not occur, both inside the turret game.  The player will be provided prompts by the AI character which act as both tutorial and guidance.
+
+### What is the constant feedback that your game provides to the players
+Visual feed back is primary since it is a video game, but there will also be auditory components like footsteps, ship sounds, and AI dialogue.
+
+### How does your game make players less self-absorbed?
+The concept of the game is fighting for your home and inspecting objects left by previous occupants of the room which I hope the player would think back upon later.
+
+
 ## Update for November 1st, 2019:
 I'm still on track, if we use the loosest of definitions.  I had allocated 2 weeks to asset creation and we're coming up on that this Tuesday.
 
