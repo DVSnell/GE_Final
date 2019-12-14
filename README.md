@@ -8,6 +8,9 @@ Design docs, testing results, and final game uploaded to Git.
 
 [Timeline and presentation](https://docs.google.com/presentation/d/1yK1uODOAqhezgVXdhOKphzRICeuSqtxCaMDtMA3p-is/edit?usp=sharing)
 
+Trailer located at:
+https://youtu.be/iemtGXk-bBI
+
 Personal notes:  I learned a ton doing this.  I was also able to use this project for my Producing class to generate a prospective budget and timeline.  It was enlightening, especially when compared to other Indie project budgets.  I think this is an idea I will continue to refine as time goes on and I pick up more skills.
 
 ## Update for November 15th, 2019:
